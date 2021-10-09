@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'BloodBank.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd6jgj4d2on6jhn',
-        'USER': 'dzlaaadlkgfmqb',
-        'PASSWORD': '05dad7f2cb1b5d8efb8e534b7abc0e43451bb316e775b95a2cde12ce98145a53',
-        'HOST':'ec2-3-209-65-193.compute-1.amazonaws.com',
+        'NAME': 'new',
+        'USER': 'postgres',
+        'PASSWORD': 'Password@20',
+        'HOST':'localhost',
     }
 }
 
